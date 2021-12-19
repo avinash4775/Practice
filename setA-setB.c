@@ -26,6 +26,7 @@ int main()
         printf("%d",setA[i]);
         count1++;
         }
+        count=0;
     }
     
     if(count1==0)

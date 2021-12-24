@@ -1,3 +1,14 @@
+/*
+Two arrays are provided to you as input, you need to print the pairs (a,b) such that a + b = k, where k is a value input by the user.
+Note: No repetition of pairs should be there.
+
+Constraints: Integer values are between 0 to 99 and 0<= k < 200
+‘a’ is in array 1
+‘b’ is in array 2 
+If no such pair exists then print NIL
+No repetition of pairs should be there.
+*/
+
 #include <stdio.h>
 
 int main()

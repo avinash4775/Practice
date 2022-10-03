@@ -33,6 +33,9 @@ public class Main
 	            else{
 	                max=Math.max(max,2*count_w);
 	            }
+		if(max==0){
+	       max=-1;
+	   }  
 		System.out.println(max);
 	}
 }
